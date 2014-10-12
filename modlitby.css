@@ -7,3 +7,4 @@ ul.resp li.v:before { content: "V: "; font-weight: bold; }
 ul.resp li.r:before { content: "R: "; font-weight: bold; }
 ul.resp li.k:before { content: "K: "; font-weight: bold; }
 ul.resp li.l:before { content: "L: "; font-weight: bold; }
+ul.resp li.o:before { content: "O: "; font-weight: bold; }
