@@ -1,0 +1,9 @@
+ul.litanie { list-style-type: none; padding: 0; }
+ul.litanie li { margin: 0 }
+p.oremus:before { content: "Oremus:"; display: block; font-weight: bold; }
+p.modlemese:before { content: "Modleme se:"; display: block; font-weight: bold; }
+ul.resp { list-style-type: none; padding: 0; }
+ul.resp li.v:before { content: "V: "; font-weight: bold; }
+ul.resp li.r:before { content: "R: "; font-weight: bold; }
+ul.resp li.k:before { content: "K: "; font-weight: bold; }
+ul.resp li.l:before { content: "L: "; font-weight: bold; }
