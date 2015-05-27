@@ -1,5 +1,5 @@
 ul.litanie { list-style-type: none; padding: 0; }
-ul.litanie li { margin: 0; position: relative; text-indent: -1em; left: 1em; }
+ul.litanie li { margin: 0; position: relative; text-indent: -3em; left: 3em; }
 p.oremus:before { content: "Oremus:"; display: block; font-weight: bold; }
 p.modlemese:before { content: "Modleme se:"; display: block; font-weight: bold; }
 ul.resp { list-style-type: none; padding: 0; }
